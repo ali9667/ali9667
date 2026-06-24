@@ -1,16 +1,22 @@
-## Hi there 👋
+# Alisher Mansoori
 
-<!--
-**ali9667/ali9667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (Data Science) @ AKGEC
 
-Here are some ideas to get you started:
+Currently:
+- Building MERN applications
+- Solving DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- SolarInvest
+- HireNext
+
+Tech:
+- React
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+
+Links:
+- Portfolio: https://alishermansoori-portfolio.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/alisher-mansoori9/
