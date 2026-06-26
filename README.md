@@ -6,7 +6,7 @@ Currently:
 - Building MERN applications
 - Solving DSA
 
-Projects:
+Major Projects:
 - SolarInvest
 - HireNext
 
