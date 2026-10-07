@@ -18,5 +18,5 @@ Tech:
 - PostgreSQL
 
 Links:
-- Portfolio: https://alishermansoori-portfolio.netlify.app/
+- Portfolio: https://alisher-mansoori-portfolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/alisher-mansoori9/
