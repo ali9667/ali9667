@@ -7,6 +7,7 @@ Currently:
 - Solving DSA
 
 Major Projects:
+- TicketGuard
 - SolarInvest
 - HireNext
 
